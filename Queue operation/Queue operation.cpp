@@ -82,7 +82,7 @@ void display()
     }
     else
     {
-        cout << "Queue is :" << endl;
+        cout << "Queue is : " << endl;
         for (i = front; i <= rear; i++)
         {
             cout << queue_array[i] << endl;
